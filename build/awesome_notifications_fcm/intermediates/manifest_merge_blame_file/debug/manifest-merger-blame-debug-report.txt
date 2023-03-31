@@ -1,0 +1,71 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="me.carda.awesome_notifications_fcm" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="21"
+6-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/awesome_notifications_fcm-0.7.4+1/android/src/main/AndroidManifest.xml
+7        android:targetSdkVersion="21" />
+7-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/awesome_notifications_fcm-0.7.4+1/android/src/main/AndroidManifest.xml
+8
+9    <uses-permission android:name="android.permission.INTERNET" />
+9-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/awesome_notifications_fcm-0.7.4+1/android/src/main/AndroidManifest.xml:4:5-67
+9-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/awesome_notifications_fcm-0.7.4+1/android/src/main/AndroidManifest.xml:4:22-64
+10    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+10-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/awesome_notifications_fcm-0.7.4+1/android/src/main/AndroidManifest.xml:5:5-81
+10-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/awesome_notifications_fcm-0.7.4+1/android/src/main/AndroidManifest.xml:5:22-78
+11    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+11-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/awesome_notifications_fcm-0.7.4+1/android/src/main/AndroidManifest.xml:6:5-82
+11-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/awesome_notifications_fcm-0.7.4+1/android/src/main/AndroidManifest.xml:6:22-79
+12
+13    <application>
+13-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/awesome_notifications_fcm-0.7.4+1/android/src/main/AndroidManifest.xml:8:5-33:19
+14        <meta-data
+14-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/awesome_notifications_fcm-0.7.4+1/android/src/main/AndroidManifest.xml:10:9-11:36
+15            android:name="firebase_messaging_auto_init_enabled"
+15-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/awesome_notifications_fcm-0.7.4+1/android/src/main/AndroidManifest.xml:10:20-71
+16            android:value="true" />
+16-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/awesome_notifications_fcm-0.7.4+1/android/src/main/AndroidManifest.xml:11:13-33
+17        <meta-data
+17-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/awesome_notifications_fcm-0.7.4+1/android/src/main/AndroidManifest.xml:12:9-13:36
+18            android:name="delivery_metrics_exported_to_big_query_enabled"
+18-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/awesome_notifications_fcm-0.7.4+1/android/src/main/AndroidManifest.xml:12:20-81
+19            android:value="true" />
+19-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/awesome_notifications_fcm-0.7.4+1/android/src/main/AndroidManifest.xml:13:13-33
+20
+21        <receiver
+21-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/awesome_notifications_fcm-0.7.4+1/android/src/main/AndroidManifest.xml:15:9-22:20
+22            android:name="me.carda.awesome_notifications_fcm.core.services.BootBroadcastReceiver"
+22-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/awesome_notifications_fcm-0.7.4+1/android/src/main/AndroidManifest.xml:16:13-98
+23            android:exported="true" >
+23-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/awesome_notifications_fcm-0.7.4+1/android/src/main/AndroidManifest.xml:17:13-36
+24            <intent-filter>
+24-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/awesome_notifications_fcm-0.7.4+1/android/src/main/AndroidManifest.xml:18:13-21:29
+25                <action android:name="android.intent.action.BOOT_COMPLETED" />
+25-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/awesome_notifications_fcm-0.7.4+1/android/src/main/AndroidManifest.xml:19:17-79
+25-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/awesome_notifications_fcm-0.7.4+1/android/src/main/AndroidManifest.xml:19:25-76
+26
+27                <category android:name="android.intent.category.HOME" />
+27-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/awesome_notifications_fcm-0.7.4+1/android/src/main/AndroidManifest.xml:20:17-73
+27-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/awesome_notifications_fcm-0.7.4+1/android/src/main/AndroidManifest.xml:20:27-70
+28            </intent-filter>
+29        </receiver>
+30
+31        <service
+31-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/awesome_notifications_fcm-0.7.4+1/android/src/main/AndroidManifest.xml:24:9-31:19
+32            android:name="me.carda.awesome_notifications_fcm.DartFcmService"
+32-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/awesome_notifications_fcm-0.7.4+1/android/src/main/AndroidManifest.xml:25:13-43
+33            android:directBootAware="true"
+33-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/awesome_notifications_fcm-0.7.4+1/android/src/main/AndroidManifest.xml:27:13-43
+34            android:exported="false" >
+34-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/awesome_notifications_fcm-0.7.4+1/android/src/main/AndroidManifest.xml:26:13-37
+35            <intent-filter>
+35-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/awesome_notifications_fcm-0.7.4+1/android/src/main/AndroidManifest.xml:28:13-30:29
+36                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+36-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/awesome_notifications_fcm-0.7.4+1/android/src/main/AndroidManifest.xml:29:17-77
+36-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/awesome_notifications_fcm-0.7.4+1/android/src/main/AndroidManifest.xml:29:25-75
+37            </intent-filter>
+38        </service>
+39    </application>
+40
+41</manifest>
