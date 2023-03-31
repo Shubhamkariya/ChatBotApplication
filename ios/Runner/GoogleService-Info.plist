@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>405198768063-d3v5h4tff2a232rlvc4frtr2r7u32gd5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.405198768063-d3v5h4tff2a232rlvc4frtr2r7u32gd5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD8B_J2AE1RJJqBPK-6A33vR0V1C7TCgEY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>405198768063</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.firebase.untitled1</string>
+	<key>PROJECT_ID</key>
+	<string>fir-auth-7e30b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-auth-7e30b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:405198768063:ios:73df9f125285925601430a</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-auth-7e30b-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
