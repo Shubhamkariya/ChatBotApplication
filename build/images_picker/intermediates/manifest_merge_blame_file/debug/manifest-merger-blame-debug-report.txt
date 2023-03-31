@@ -1,0 +1,47 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.chavesgu.images_picker" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="21"
+6-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/images_picker-1.2.11/android/src/main/AndroidManifest.xml
+7        android:targetSdkVersion="21" />
+7-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/images_picker-1.2.11/android/src/main/AndroidManifest.xml
+8
+9    <queries>
+9-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/images_picker-1.2.11/android/src/main/AndroidManifest.xml:4:3-12:13
+10        <package android:name="${applicationId}" />
+10-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/images_picker-1.2.11/android/src/main/AndroidManifest.xml:5:5-47
+10-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/images_picker-1.2.11/android/src/main/AndroidManifest.xml:5:14-45
+11
+12        <intent>
+12-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/images_picker-1.2.11/android/src/main/AndroidManifest.xml:6:5-8:14
+13            <action android:name="android.media.action.IMAGE_CAPTURE" />
+13-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/images_picker-1.2.11/android/src/main/AndroidManifest.xml:7:7-66
+13-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/images_picker-1.2.11/android/src/main/AndroidManifest.xml:7:15-64
+14        </intent>
+15        <intent>
+15-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/images_picker-1.2.11/android/src/main/AndroidManifest.xml:9:5-11:14
+16            <action android:name="android.media.action.ACTION_VIDEO_CAPTURE" />
+16-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/images_picker-1.2.11/android/src/main/AndroidManifest.xml:10:7-73
+16-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/images_picker-1.2.11/android/src/main/AndroidManifest.xml:10:15-71
+17        </intent>
+18    </queries>
+19
+20    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+20-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/images_picker-1.2.11/android/src/main/AndroidManifest.xml:13:3-78
+20-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/images_picker-1.2.11/android/src/main/AndroidManifest.xml:13:20-75
+21    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+21-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/images_picker-1.2.11/android/src/main/AndroidManifest.xml:14:3-79
+21-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/images_picker-1.2.11/android/src/main/AndroidManifest.xml:14:20-76
+22    <uses-permission android:name="android.permission.CAMERA" />
+22-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/images_picker-1.2.11/android/src/main/AndroidManifest.xml:15:3-63
+22-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/images_picker-1.2.11/android/src/main/AndroidManifest.xml:15:20-60
+23    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+23-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/images_picker-1.2.11/android/src/main/AndroidManifest.xml:16:3-69
+23-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/images_picker-1.2.11/android/src/main/AndroidManifest.xml:16:20-66
+24    <uses-permission android:name="android.permission.INTERNET" />
+24-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/images_picker-1.2.11/android/src/main/AndroidManifest.xml:17:3-65
+24-->/Users/shubhamkariya/.pub-cache/hosted/pub.dev/images_picker-1.2.11/android/src/main/AndroidManifest.xml:17:20-62
+25
+26</manifest>

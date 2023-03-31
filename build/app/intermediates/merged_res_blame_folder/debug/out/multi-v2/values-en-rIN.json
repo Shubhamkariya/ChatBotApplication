@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.firebase.untitled1.app-mergeDebugResources-26:/values-en-rIN/values-en-rIN.xml",
+            "map": [
+                {
+                    "source": "/Users/shubhamkariya/.gradle/caches/transforms-3/24d2a2e1860396e6de545d39d120b0fa/transformed/core-1.9.0/res/values-en-rIN/values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "458",
+                        "endColumns": "100",
+                        "endOffsets": "554"
+                    }
+                },
+                {
+                    "source": "/Users/shubhamkariya/.gradle/caches/transforms-3/194a357c36ceb1deaea2a0e9461085d4/transformed/browser-1.4.0/res/values-en-rIN/values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,153,250,359",
+                        "endColumns": "97,96,108,98",
+                        "endOffsets": "148,245,354,453"
+                    }
+                }
+            ]
+        }
+    ]
+}
