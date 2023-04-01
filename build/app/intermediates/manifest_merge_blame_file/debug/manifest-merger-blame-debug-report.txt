@@ -13,38 +13,38 @@
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->/Users/shubhamkariya/StudioProjects/untitled1/android/app/src/debug/AndroidManifest.xml:7:5-66
-15-->/Users/shubhamkariya/StudioProjects/untitled1/android/app/src/debug/AndroidManifest.xml:7:22-64
+15-->/Users/shubhamkariya/Documents/ChatBotApplication/android/app/src/debug/AndroidManifest.xml:7:5-66
+15-->/Users/shubhamkariya/Documents/ChatBotApplication/android/app/src/debug/AndroidManifest.xml:7:22-64
 16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-16-->/Users/shubhamkariya/StudioProjects/untitled1/android/app/src/main/AndroidManifest.xml:3:5-80
-16-->/Users/shubhamkariya/StudioProjects/untitled1/android/app/src/main/AndroidManifest.xml:3:22-77
+16-->/Users/shubhamkariya/Documents/ChatBotApplication/android/app/src/main/AndroidManifest.xml:3:5-80
+16-->/Users/shubhamkariya/Documents/ChatBotApplication/android/app/src/main/AndroidManifest.xml:3:22-77
 17    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-17-->/Users/shubhamkariya/StudioProjects/untitled1/android/app/src/main/AndroidManifest.xml:4:5-81
-17-->/Users/shubhamkariya/StudioProjects/untitled1/android/app/src/main/AndroidManifest.xml:4:22-78
+17-->/Users/shubhamkariya/Documents/ChatBotApplication/android/app/src/main/AndroidManifest.xml:4:5-81
+17-->/Users/shubhamkariya/Documents/ChatBotApplication/android/app/src/main/AndroidManifest.xml:4:22-78
 18    <uses-permission android:name="android.permission.CAMERA" />
-18-->/Users/shubhamkariya/StudioProjects/untitled1/android/app/src/main/AndroidManifest.xml:5:5-65
-18-->/Users/shubhamkariya/StudioProjects/untitled1/android/app/src/main/AndroidManifest.xml:5:22-62
+18-->/Users/shubhamkariya/Documents/ChatBotApplication/android/app/src/main/AndroidManifest.xml:5:5-65
+18-->/Users/shubhamkariya/Documents/ChatBotApplication/android/app/src/main/AndroidManifest.xml:5:22-62
 19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-19-->[:firebase_analytics] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_analytics/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-79
-19-->[:firebase_analytics] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_analytics/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-76
+19-->[:firebase_analytics] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_analytics/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-79
+19-->[:firebase_analytics] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_analytics/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-76
 20    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Permissions options for the `notification` group -->
-20-->[:firebase_analytics] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_analytics/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-68
-20-->[:firebase_analytics] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_analytics/intermediates/merged_manifest/debug/AndroidManifest.xml:11:22-65
+20-->[:firebase_analytics] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_analytics/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-68
+20-->[:firebase_analytics] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_analytics/intermediates/merged_manifest/debug/AndroidManifest.xml:11:22-65
 21    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
-21-->[:firebase_messaging] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-77
-21-->[:firebase_messaging] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:13:22-74
+21-->[:firebase_messaging] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-77
+21-->[:firebase_messaging] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:13:22-74
 22    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
-22-->[:flutter_local_notifications] /Users/shubhamkariya/StudioProjects/untitled1/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-81
-22-->[:flutter_local_notifications] /Users/shubhamkariya/StudioProjects/untitled1/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-78
+22-->[:flutter_local_notifications] /Users/shubhamkariya/Documents/ChatBotApplication/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-81
+22-->[:flutter_local_notifications] /Users/shubhamkariya/Documents/ChatBotApplication/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-78
 23    <uses-permission android:name="android.permission.VIBRATE" />
-23-->[:flutter_local_notifications] /Users/shubhamkariya/StudioProjects/untitled1/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-66
-23-->[:flutter_local_notifications] /Users/shubhamkariya/StudioProjects/untitled1/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-63
+23-->[:flutter_local_notifications] /Users/shubhamkariya/Documents/ChatBotApplication/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-66
+23-->[:flutter_local_notifications] /Users/shubhamkariya/Documents/ChatBotApplication/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-63
 24    <uses-permission android:name="android.permission.USE_FULL_SCREEN_INTENT" />
-24-->[:flutter_local_notifications] /Users/shubhamkariya/StudioProjects/untitled1/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-81
-24-->[:flutter_local_notifications] /Users/shubhamkariya/StudioProjects/untitled1/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:11:22-78
+24-->[:flutter_local_notifications] /Users/shubhamkariya/Documents/ChatBotApplication/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-81
+24-->[:flutter_local_notifications] /Users/shubhamkariya/Documents/ChatBotApplication/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:11:22-78
 25    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" /> <!-- Required by older versions of Google Play services to create IID tokens -->
-25-->[:flutter_local_notifications] /Users/shubhamkariya/StudioProjects/untitled1/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:12:5-79
-25-->[:flutter_local_notifications] /Users/shubhamkariya/StudioProjects/untitled1/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:12:22-76
+25-->[:flutter_local_notifications] /Users/shubhamkariya/Documents/ChatBotApplication/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:12:5-79
+25-->[:flutter_local_notifications] /Users/shubhamkariya/Documents/ChatBotApplication/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:12:22-76
 26    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
 26-->[com.google.firebase:firebase-messaging:23.1.2] /Users/shubhamkariya/.gradle/caches/transforms-3/12d8cade192d404eaa7706daab78a197/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:28:5-82
 26-->[com.google.firebase:firebase-messaging:23.1.2] /Users/shubhamkariya/.gradle/caches/transforms-3/12d8cade192d404eaa7706daab78a197/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:28:22-79
@@ -72,7 +72,7 @@
 38-->[androidx.core:core:1.9.0] /Users/shubhamkariya/.gradle/caches/transforms-3/24d2a2e1860396e6de545d39d120b0fa/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
 39        android:debuggable="true"
 40        android:icon="@mipmap/ic_launcher"
-41        android:label="untitled1"
+41        android:label="Chatmate"
 42        android:requestLegacyExternalStorage="true"
 43        android:usesCleartextTraffic="true" >
 44        <activity
@@ -118,61 +118,61 @@
 84            android:value="false" />
 85
 86        <service
-86-->[:firebase_crashlytics] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_crashlytics/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
+86-->[:firebase_crashlytics] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_crashlytics/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
 87            android:name="com.google.firebase.components.ComponentDiscoveryService"
-87-->[:firebase_crashlytics] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_crashlytics/intermediates/merged_manifest/debug/AndroidManifest.xml:10:18-89
+87-->[:firebase_crashlytics] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_crashlytics/intermediates/merged_manifest/debug/AndroidManifest.xml:10:18-89
 88            android:directBootAware="true"
 88-->[com.google.firebase:firebase-common:20.3.2] /Users/shubhamkariya/.gradle/caches/transforms-3/7ae53e791961263ccf34f3c9b79d8893/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:34:13-43
 89            android:exported="false" >
 89-->[com.google.firebase:firebase-auth:21.2.0] /Users/shubhamkariya/.gradle/caches/transforms-3/bd17a4888f6d18d77d7e5a3fff98e130/transformed/jetified-firebase-auth-21.2.0/AndroidManifest.xml:68:13-37
 90            <meta-data
-90-->[:firebase_crashlytics] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_crashlytics/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
+90-->[:firebase_crashlytics] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_crashlytics/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
 91                android:name="com.google.firebase.components:io.flutter.plugins.firebase.crashlytics.FlutterFirebaseAppRegistrar"
-91-->[:firebase_crashlytics] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_crashlytics/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-130
+91-->[:firebase_crashlytics] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_crashlytics/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-130
 92                android:value="com.google.firebase.components.ComponentRegistrar" />
-92-->[:firebase_crashlytics] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_crashlytics/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
+92-->[:firebase_crashlytics] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_crashlytics/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
 93            <meta-data
-93-->[:firebase_database] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_database/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
+93-->[:firebase_database] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_database/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
 94                android:name="com.google.firebase.components:io.flutter.plugins.firebase.database.FlutterFirebaseAppRegistrar"
-94-->[:firebase_database] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_database/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-127
+94-->[:firebase_database] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_database/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-127
 95                android:value="com.google.firebase.components.ComponentRegistrar" />
-95-->[:firebase_database] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_database/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
+95-->[:firebase_database] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_database/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
 96            <meta-data
-96-->[:cloud_firestore] /Users/shubhamkariya/StudioProjects/untitled1/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
+96-->[:cloud_firestore] /Users/shubhamkariya/Documents/ChatBotApplication/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
 97                android:name="com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar"
-97-->[:cloud_firestore] /Users/shubhamkariya/StudioProjects/untitled1/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-134
+97-->[:cloud_firestore] /Users/shubhamkariya/Documents/ChatBotApplication/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-134
 98                android:value="com.google.firebase.components.ComponentRegistrar" />
-98-->[:cloud_firestore] /Users/shubhamkariya/StudioProjects/untitled1/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
+98-->[:cloud_firestore] /Users/shubhamkariya/Documents/ChatBotApplication/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
 99            <meta-data
-99-->[:firebase_analytics] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_analytics/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-17:85
+99-->[:firebase_analytics] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_analytics/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-17:85
 100                android:name="com.google.firebase.components:io.flutter.plugins.firebase.analytics.FlutterFirebaseAppRegistrar"
-100-->[:firebase_analytics] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_analytics/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-128
+100-->[:firebase_analytics] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_analytics/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-128
 101                android:value="com.google.firebase.components.ComponentRegistrar" />
-101-->[:firebase_analytics] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_analytics/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-82
+101-->[:firebase_analytics] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_analytics/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-82
 102            <meta-data
-102-->[:firebase_auth] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
+102-->[:firebase_auth] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
 103                android:name="com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar"
-103-->[:firebase_auth] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-124
+103-->[:firebase_auth] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-124
 104                android:value="com.google.firebase.components.ComponentRegistrar" />
-104-->[:firebase_auth] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
+104-->[:firebase_auth] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
 105            <meta-data
-105-->[:firebase_storage] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_storage/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
+105-->[:firebase_storage] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_storage/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
 106                android:name="com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar"
-106-->[:firebase_storage] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_storage/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-126
+106-->[:firebase_storage] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_storage/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-126
 107                android:value="com.google.firebase.components.ComponentRegistrar" />
-107-->[:firebase_storage] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_storage/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
+107-->[:firebase_storage] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_storage/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
 108            <meta-data
-108-->[:firebase_messaging] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:38:13-40:85
+108-->[:firebase_messaging] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:38:13-40:85
 109                android:name="com.google.firebase.components:io.flutter.plugins.firebase.messaging.FlutterFirebaseAppRegistrar"
-109-->[:firebase_messaging] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:39:17-128
+109-->[:firebase_messaging] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:39:17-128
 110                android:value="com.google.firebase.components.ComponentRegistrar" />
-110-->[:firebase_messaging] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:40:17-82
+110-->[:firebase_messaging] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:40:17-82
 111            <meta-data
-111-->[:firebase_core] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
+111-->[:firebase_core] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
 112                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
-112-->[:firebase_core] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-124
+112-->[:firebase_core] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-124
 113                android:value="com.google.firebase.components.ComponentRegistrar" />
-113-->[:firebase_core] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
+113-->[:firebase_core] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
 114            <meta-data
 114-->[com.google.firebase:firebase-auth:21.2.0] /Users/shubhamkariya/.gradle/caches/transforms-3/bd17a4888f6d18d77d7e5a3fff98e130/transformed/jetified-firebase-auth-21.2.0/AndroidManifest.xml:69:13-71:85
 115                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
@@ -235,103 +235,103 @@
 143-->[com.google.firebase:firebase-datatransport:18.1.7] /Users/shubhamkariya/.gradle/caches/transforms-3/1287e2bbea42925a27ad2a7ae981eb52/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:29:17-82
 144        </service>
 145        <service
-145-->[:firebase_messaging] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:16:9-19:72
+145-->[:firebase_messaging] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:16:9-19:72
 146            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingBackgroundService"
-146-->[:firebase_messaging] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-107
+146-->[:firebase_messaging] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-107
 147            android:exported="false"
-147-->[:firebase_messaging] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-37
+147-->[:firebase_messaging] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-37
 148            android:permission="android.permission.BIND_JOB_SERVICE" />
-148-->[:firebase_messaging] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-69
+148-->[:firebase_messaging] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-69
 149        <service
-149-->[:firebase_messaging] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:20:9-26:19
+149-->[:firebase_messaging] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:20:9-26:19
 150            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingService"
-150-->[:firebase_messaging] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-97
+150-->[:firebase_messaging] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-97
 151            android:exported="false" >
-151-->[:firebase_messaging] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-37
+151-->[:firebase_messaging] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-37
 152            <intent-filter>
-152-->[:firebase_messaging] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-25:29
+152-->[:firebase_messaging] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-25:29
 153                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-153-->[:firebase_messaging] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:24:17-78
-153-->[:firebase_messaging] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:24:25-75
+153-->[:firebase_messaging] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:24:17-78
+153-->[:firebase_messaging] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:24:25-75
 154            </intent-filter>
 155        </service>
 156
 157        <receiver
-157-->[:firebase_messaging] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:28:9-35:20
+157-->[:firebase_messaging] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:28:9-35:20
 158            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingReceiver"
-158-->[:firebase_messaging] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:29:13-98
+158-->[:firebase_messaging] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:29:13-98
 159            android:exported="true"
-159-->[:firebase_messaging] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:30:13-36
+159-->[:firebase_messaging] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:30:13-36
 160            android:permission="com.google.android.c2dm.permission.SEND" >
-160-->[:firebase_messaging] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:31:13-73
+160-->[:firebase_messaging] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:31:13-73
 161            <intent-filter>
-161-->[:firebase_messaging] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:32:13-34:29
+161-->[:firebase_messaging] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:32:13-34:29
 162                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-162-->[:firebase_messaging] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:33:17-81
-162-->[:firebase_messaging] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:33:25-78
+162-->[:firebase_messaging] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:33:17-81
+162-->[:firebase_messaging] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:33:25-78
 163            </intent-filter>
 164        </receiver>
 165
 166        <provider
-166-->[:firebase_messaging] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:43:9-47:38
+166-->[:firebase_messaging] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:43:9-47:38
 167            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingInitProvider"
-167-->[:firebase_messaging] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:44:13-102
+167-->[:firebase_messaging] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:44:13-102
 168            android:authorities="com.example.firebase.untitled1.flutterfirebasemessaginginitprovider"
-168-->[:firebase_messaging] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:45:13-88
+168-->[:firebase_messaging] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:45:13-88
 169            android:exported="false"
-169-->[:firebase_messaging] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:46:13-37
+169-->[:firebase_messaging] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:46:13-37
 170            android:initOrder="99" />
-170-->[:firebase_messaging] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:47:13-35
+170-->[:firebase_messaging] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:47:13-35
 171        <provider
-171-->[:image_picker_android] /Users/shubhamkariya/StudioProjects/untitled1/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
+171-->[:image_picker_android] /Users/shubhamkariya/Documents/ChatBotApplication/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
 172            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
-172-->[:image_picker_android] /Users/shubhamkariya/StudioProjects/untitled1/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-82
+172-->[:image_picker_android] /Users/shubhamkariya/Documents/ChatBotApplication/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-82
 173            android:authorities="com.example.firebase.untitled1.flutter.image_provider"
-173-->[:image_picker_android] /Users/shubhamkariya/StudioProjects/untitled1/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-74
+173-->[:image_picker_android] /Users/shubhamkariya/Documents/ChatBotApplication/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-74
 174            android:exported="false"
-174-->[:image_picker_android] /Users/shubhamkariya/StudioProjects/untitled1/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+174-->[:image_picker_android] /Users/shubhamkariya/Documents/ChatBotApplication/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
 175            android:grantUriPermissions="true" >
-175-->[:image_picker_android] /Users/shubhamkariya/StudioProjects/untitled1/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
+175-->[:image_picker_android] /Users/shubhamkariya/Documents/ChatBotApplication/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
 176            <meta-data
-176-->[:image_picker_android] /Users/shubhamkariya/StudioProjects/untitled1/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-17:75
+176-->[:image_picker_android] /Users/shubhamkariya/Documents/ChatBotApplication/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-17:75
 177                android:name="android.support.FILE_PROVIDER_PATHS"
-177-->[:image_picker_android] /Users/shubhamkariya/StudioProjects/untitled1/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-67
+177-->[:image_picker_android] /Users/shubhamkariya/Documents/ChatBotApplication/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-67
 178                android:resource="@xml/flutter_image_picker_file_paths" />
-178-->[:image_picker_android] /Users/shubhamkariya/StudioProjects/untitled1/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-72
+178-->[:image_picker_android] /Users/shubhamkariya/Documents/ChatBotApplication/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-72
 179        </provider>
 180
 181        <receiver
-181-->[:flutter_local_notifications] /Users/shubhamkariya/StudioProjects/untitled1/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:16:9-18:40
+181-->[:flutter_local_notifications] /Users/shubhamkariya/Documents/ChatBotApplication/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:16:9-18:40
 182            android:name="com.dexterous.flutterlocalnotifications.ActionBroadcastReceiver"
-182-->[:flutter_local_notifications] /Users/shubhamkariya/StudioProjects/untitled1/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-91
+182-->[:flutter_local_notifications] /Users/shubhamkariya/Documents/ChatBotApplication/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-91
 183            android:exported="false" />
-183-->[:flutter_local_notifications] /Users/shubhamkariya/StudioProjects/untitled1/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-37
+183-->[:flutter_local_notifications] /Users/shubhamkariya/Documents/ChatBotApplication/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-37
 184        <receiver
-184-->[:flutter_local_notifications] /Users/shubhamkariya/StudioProjects/untitled1/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:19:9-21:40
+184-->[:flutter_local_notifications] /Users/shubhamkariya/Documents/ChatBotApplication/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:19:9-21:40
 185            android:name="com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver"
-185-->[:flutter_local_notifications] /Users/shubhamkariya/StudioProjects/untitled1/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-97
+185-->[:flutter_local_notifications] /Users/shubhamkariya/Documents/ChatBotApplication/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-97
 186            android:exported="false" />
-186-->[:flutter_local_notifications] /Users/shubhamkariya/StudioProjects/untitled1/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-37
+186-->[:flutter_local_notifications] /Users/shubhamkariya/Documents/ChatBotApplication/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-37
 187        <receiver
-187-->[:flutter_local_notifications] /Users/shubhamkariya/StudioProjects/untitled1/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:22:9-31:20
+187-->[:flutter_local_notifications] /Users/shubhamkariya/Documents/ChatBotApplication/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:22:9-31:20
 188            android:name="com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver"
-188-->[:flutter_local_notifications] /Users/shubhamkariya/StudioProjects/untitled1/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-101
+188-->[:flutter_local_notifications] /Users/shubhamkariya/Documents/ChatBotApplication/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-101
 189            android:exported="false" >
-189-->[:flutter_local_notifications] /Users/shubhamkariya/StudioProjects/untitled1/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:24:13-37
+189-->[:flutter_local_notifications] /Users/shubhamkariya/Documents/ChatBotApplication/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:24:13-37
 190            <intent-filter>
-190-->[:flutter_local_notifications] /Users/shubhamkariya/StudioProjects/untitled1/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:25:13-30:29
+190-->[:flutter_local_notifications] /Users/shubhamkariya/Documents/ChatBotApplication/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:25:13-30:29
 191                <action android:name="android.intent.action.BOOT_COMPLETED" />
-191-->[:flutter_local_notifications] /Users/shubhamkariya/StudioProjects/untitled1/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:26:17-79
-191-->[:flutter_local_notifications] /Users/shubhamkariya/StudioProjects/untitled1/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:26:25-76
+191-->[:flutter_local_notifications] /Users/shubhamkariya/Documents/ChatBotApplication/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:26:17-79
+191-->[:flutter_local_notifications] /Users/shubhamkariya/Documents/ChatBotApplication/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:26:25-76
 192                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
-192-->[:flutter_local_notifications] /Users/shubhamkariya/StudioProjects/untitled1/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:27:17-84
-192-->[:flutter_local_notifications] /Users/shubhamkariya/StudioProjects/untitled1/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:27:25-81
+192-->[:flutter_local_notifications] /Users/shubhamkariya/Documents/ChatBotApplication/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:27:17-84
+192-->[:flutter_local_notifications] /Users/shubhamkariya/Documents/ChatBotApplication/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:27:25-81
 193                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
-193-->[:flutter_local_notifications] /Users/shubhamkariya/StudioProjects/untitled1/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:28:17-82
-193-->[:flutter_local_notifications] /Users/shubhamkariya/StudioProjects/untitled1/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:28:25-79
+193-->[:flutter_local_notifications] /Users/shubhamkariya/Documents/ChatBotApplication/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:28:17-82
+193-->[:flutter_local_notifications] /Users/shubhamkariya/Documents/ChatBotApplication/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:28:25-79
 194                <action android:name="com.htc.intent.action.QUICKBOOT_POWERON" />
-194-->[:flutter_local_notifications] /Users/shubhamkariya/StudioProjects/untitled1/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:29:17-82
-194-->[:flutter_local_notifications] /Users/shubhamkariya/StudioProjects/untitled1/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:29:25-79
+194-->[:flutter_local_notifications] /Users/shubhamkariya/Documents/ChatBotApplication/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:29:17-82
+194-->[:flutter_local_notifications] /Users/shubhamkariya/Documents/ChatBotApplication/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:29:25-79
 195            </intent-filter>
 196        </receiver>
 197
@@ -440,10 +440,10 @@
 253            android:permission="com.google.android.c2dm.permission.SEND" >
 253-->[com.google.firebase:firebase-messaging:23.1.2] /Users/shubhamkariya/.gradle/caches/transforms-3/12d8cade192d404eaa7706daab78a197/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:34:13-73
 254            <intent-filter>
-254-->[:firebase_messaging] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:32:13-34:29
+254-->[:firebase_messaging] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:32:13-34:29
 255                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-255-->[:firebase_messaging] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:33:17-81
-255-->[:firebase_messaging] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:33:25-78
+255-->[:firebase_messaging] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:33:17-81
+255-->[:firebase_messaging] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:33:25-78
 256            </intent-filter>
 257        </receiver>
 258        <!--
@@ -459,10 +459,10 @@
 265            android:exported="false" >
 265-->[com.google.firebase:firebase-messaging:23.1.2] /Users/shubhamkariya/.gradle/caches/transforms-3/12d8cade192d404eaa7706daab78a197/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:47:13-37
 266            <intent-filter android:priority="-500" >
-266-->[:firebase_messaging] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-25:29
+266-->[:firebase_messaging] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-25:29
 267                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-267-->[:firebase_messaging] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:24:17-78
-267-->[:firebase_messaging] /Users/shubhamkariya/StudioProjects/untitled1/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:24:25-75
+267-->[:firebase_messaging] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:24:17-78
+267-->[:firebase_messaging] /Users/shubhamkariya/Documents/ChatBotApplication/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:24:25-75
 268            </intent-filter>
 269        </service>
 270

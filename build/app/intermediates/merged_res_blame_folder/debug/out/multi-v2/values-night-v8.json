@@ -4,7 +4,7 @@
             "outputFile": "com.example.firebase.untitled1.app-mergeDebugResources-26:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/shubhamkariya/StudioProjects/untitled1/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/shubhamkariya/Documents/ChatBotApplication/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

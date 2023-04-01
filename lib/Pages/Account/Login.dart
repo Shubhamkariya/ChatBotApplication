@@ -149,12 +149,12 @@ class Login extends StatelessWidget {
                                          final FirebaseAuth auth1 = FirebaseAuth.instance;
                                          final User? user = auth1.currentUser;
                                          final uid = user?.uid;
-                                         DatabaseReference dbReference = FirebaseDatabase.instance.ref()
-                                             .child('User')
-                                             .child(uid.toString());
-                                         dbReference.update({
-                                           "token": fcmToken
-                                         });
+                                         // DatabaseReference dbReference = FirebaseDatabase.instance.ref()
+                                         //     .child('User')
+                                         //     .child(uid.toString());
+                                         // dbReference.update({
+                                         //   "token": fcmToken
+                                         // });
                                       } on FirebaseAuthException catch (e) {
                                         if (e.code == 'user-not-found') {
                                           print('No user found for that email.');

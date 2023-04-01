@@ -139,7 +139,7 @@
     <string name="common_signin_button_text_long">Sign in with Google</string>
     <string name="copy_toast_msg">Link copied to clipboard</string>
     <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
-    <string name="default_web_client_id" translatable="false">405198768063-sgao4vlfp7b2ndqp8j1vvhdp8reega59.apps.googleusercontent.com</string>
+    <string name="default_web_client_id" translatable="false">405198768063-qmn3st90thdd0hkdlr9go9ikp9l6jmj1.apps.googleusercontent.com</string>
     <string name="fallback_menu_item_copy_link">Copy link</string>
     <string name="fallback_menu_item_open_in_browser">Open in browser</string>
     <string name="fallback_menu_item_share_link">Share link</string>
