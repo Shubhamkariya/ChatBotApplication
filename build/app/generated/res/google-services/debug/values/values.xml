@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="default_web_client_id" translatable="false">405198768063-sgao4vlfp7b2ndqp8j1vvhdp8reega59.apps.googleusercontent.com</string>
+    <string name="default_web_client_id" translatable="false">405198768063-qmn3st90thdd0hkdlr9go9ikp9l6jmj1.apps.googleusercontent.com</string>
     <string name="firebase_database_url" translatable="false">https://fir-auth-7e30b-default-rtdb.firebaseio.com</string>
     <string name="gcm_defaultSenderId" translatable="false">405198768063</string>
     <string name="google_api_key" translatable="false">AIzaSyCx1utvb0etSX6cPIdFZyCf9XDHICy2Uw8</string>
